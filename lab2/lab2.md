@@ -25,6 +25,7 @@ WHERE s.dealership_id = 10;
 ```
 
 Выполнение запроса представлено на скриншоте:
+
 <img width="848" height="520" alt="лаб 2 задание 1" src="https://github.com/user-attachments/assets/02ee7d5d-0b37-4bda-a00f-09cd3ea535ab" />
 
 
@@ -42,6 +43,7 @@ WHERE customer_id IN (
 ```
 
 Выполнение запроса представлено на скриншоте:
+
 <img width="585" height="515" alt="лаб 2 задание 2" src="https://github.com/user-attachments/assets/92dbc913-725f-4477-ae11-116e232b2b53" />
 
 
@@ -61,6 +63,7 @@ LIMIT 15;
 ```
 
 Выполнение запроса представлено на скриншоте:
+
 <img width="578" height="521" alt="лаб 2 задание 3" src="https://github.com/user-attachments/assets/c3f33141-d717-4f1e-836b-35f2f657fa46" />
 
 # Вывод
